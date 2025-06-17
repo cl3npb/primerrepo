@@ -2,11 +2,11 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
-Hey @cl3npb!
+Hi, I am Clenda.
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+This is my firt project, I will be read this text many month after
 
-Remember, it's self-paced so feel free to take a break! ☕️
+Thank you Github and Canizares.
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/cl3npb/primerrepo/issues/1)
 
